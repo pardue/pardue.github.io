@@ -29,7 +29,7 @@ h1, h2, h3 {
 .logo {
   width: 150px;
   margin-bottom: 20px;
-  border-radius: 50%;
+  border-radius: 45%;
 }
 
 .hero h1 {
@@ -73,7 +73,7 @@ h1, h2, h3 {
 }
 
 .about-img img {
-  width: 200%;
+  width: 120%;
   border-radius: 10px;
 }
 
